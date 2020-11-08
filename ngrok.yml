@@ -1,4 +1,3 @@
-authtoken: 5yKSVYn36hfvH5p55Xh6z_4WsGer9Q5bt5EDffMRQF9
 tunnels:
   first-app:
     addr: 8080
