@@ -1,0 +1,14 @@
+{
+  "name": "fog-of-war",
+  "version": "1.0.0",
+  "description": "Simple Fog of War for Images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Vincent Schmandt",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
